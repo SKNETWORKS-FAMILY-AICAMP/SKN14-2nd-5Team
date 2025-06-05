@@ -93,7 +93,7 @@ Olist 사용자 이탈 예측 및 요인 분석
 
 **데이터 출처** https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
-![image.png](images/erd.png)
+<img src="images/erd.png" alt="image" width="600"/>
 
 | 테이블명 | 설명 |
 | --- | --- |
