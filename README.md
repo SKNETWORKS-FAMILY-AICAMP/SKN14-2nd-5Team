@@ -6,7 +6,7 @@ Olist 사용자 이탈 예측 및 요인 분석
 
 ## **👨‍👩‍👧‍👦 팀 소개(5li5li)**
 
-<img src="images/member.png" alt="image" width="300"/>
+<img src="images/member.png" alt="image" width="600"/>
 
 
 ### **🧑‍💻 팀원소개 및 역할분담**
