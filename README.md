@@ -269,19 +269,19 @@ Olist 사용자 이탈 예측 및 요인 분석
 
 ### 예측
 
-![Screenshot 2025-06-05 at 5.52.32 PM.png](images/screen1.png)
+<img src="images/screen1.png" alt="image" width="600"/>
 
-![Screenshot 2025-06-05 at 5.52.56 PM.png](images/screen2.png)
+<img src="images/screen2.png" alt="image" width="600"/>
 
 ### 분석
 
-![Screenshot 2025-06-05 at 5.53.53 PM.png](images/screen3.png)
+<img src="images/screen3.png" alt="image" width="600"/>
 
-![Screenshot 2025-06-05 at 5.54.10 PM.png](images/screen4.png)
+<img src="images/screen4.png" alt="image" width="600"/>
 
-![Screenshot 2025-06-05 at 5.54.29 PM.png](images/screen5.png)
+<img src="images/screen5.png" alt="image" width="600"/>
 
-![Screenshot 2025-06-05 at 5.55.00 PM.png](images/screen6.png)
+<img src="images/screen6.png" alt="image" width="600"/>
 
 # 💡결론
 
