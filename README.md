@@ -6,7 +6,8 @@ Olist 사용자 이탈 예측 및 요인 분석
 
 ## **👨‍👩‍👧‍👦 팀 소개(5li5li)**
 
-![image.png](images/member.png)
+<img src="images/member.png" alt="image" width="300"/>
+
 
 ### **🧑‍💻 팀원소개 및 역할분담**
 
@@ -268,19 +269,19 @@ Olist 사용자 이탈 예측 및 요인 분석
 
 ### 예측
 
-![Screenshot 2025-06-05 at 5.52.32 PM.png](images/Screenshot_2025-06-05_at_5.52.32_PM.png)
+![Screenshot 2025-06-05 at 5.52.32 PM.png](images/screen1.png)
 
-![Screenshot 2025-06-05 at 5.52.56 PM.png](images/Screenshot_2025-06-05_at_5.52.56_PM.png)
+![Screenshot 2025-06-05 at 5.52.56 PM.png](images/screen2.png)
 
 ### 분석
 
-![Screenshot 2025-06-05 at 5.53.53 PM.png](images/Screenshot_2025-06-05_at_5.53.53_PM.png)
+![Screenshot 2025-06-05 at 5.53.53 PM.png](images/screen3.png)
 
-![Screenshot 2025-06-05 at 5.54.10 PM.png](images/Screenshot_2025-06-05_at_5.54.10_PM.png)
+![Screenshot 2025-06-05 at 5.54.10 PM.png](images/screen4.png)
 
-![Screenshot 2025-06-05 at 5.54.29 PM.png](images/Screenshot_2025-06-05_at_5.54.29_PM.png)
+![Screenshot 2025-06-05 at 5.54.29 PM.png](images/screen5.png)
 
-![Screenshot 2025-06-05 at 5.55.00 PM.png](images/Screenshot_2025-06-05_at_5.55.00_PM.png)
+![Screenshot 2025-06-05 at 5.55.00 PM.png](images/screen6.png)
 
 # 💡결론
 
